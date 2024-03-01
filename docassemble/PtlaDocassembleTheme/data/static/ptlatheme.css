@@ -37,14 +37,6 @@
 }
 
 
-/* this is the font style for the body of the interview */
-body {
-  font-family: "Source Sans Pro", sans-serif;
-  color: #212529;
- 
-}
-
-
 /* This is to make text white in dark mode*/
 function myFunction() {
   var element = document.body;
@@ -54,6 +46,14 @@ function myFunction() {
 body {
   font-family: "Source Sans Pro", sans-serif;
   color: #fff;
+ 
+}
+
+
+/* this is the font style for the body of the interview */
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #212529;
  
 }
 
