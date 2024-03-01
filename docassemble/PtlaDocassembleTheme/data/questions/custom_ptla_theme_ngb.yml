@@ -222,3 +222,9 @@ right: |
 #code: |
 #  trial_court = all_courts.as_court('trial_court', trial_court_index)
 #  trial_court.geolocate()  
+
+#    ${ how_to_pick_court_help_template }
+---
+#code: |
+#  trial_court = all_courts.as_court('trial_court', trial_court_index)
+#  trial_court.geolocate()  
